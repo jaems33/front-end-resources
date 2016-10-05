@@ -40,6 +40,10 @@ http://web.stanford.edu/class/cs193p/cgi-bin/drupal/
 
 ---
 
+#### Introduction to Compuster Science and Programming from MIT
+Learning the foundational concepts that can be applied to learning tougher languages.
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/
+
 #### Learning How To Learn
 Not coding related but a good course to take to improve one's efficiency in learning tough abstract concepts.
 https://www.coursera.org/learn/learning-how-to-learn/home/welcome
