@@ -50,6 +50,14 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-int
 Should look into later to find specific lectures that are applicable to design and development
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
 
+---
+
 #### Learning How To Learn
 Not coding related but a good course to take to improve one's efficiency in learning tough abstract concepts.
 https://www.coursera.org/learn/learning-how-to-learn/home/welcome
+
+---
+
+#### Export Sketch Designs into Virtual Reality
+How to use a Sketch plug-in to export work into VR.
+https://blog.prototypr.io/sketch-plugin-sketch-to-vr-4e23ced47e6#.dg8rtwlzn
